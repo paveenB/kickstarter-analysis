@@ -17,6 +17,8 @@ to be able to visualize the trends in the data.  A few challenges was finding wh
 
 Outcomes based on the launch date reveals that there was a higher chance of success if launched in the months of May and June when following the data trend.  The month of October seemed to show the highest rate of failure based on the launch date.  The best time for a launch date would be in May, while the worse time to launch would be in October.
 
+![This is an image]
+
 ## Analysis of Outcomes Based on Goals:
 
 When reviewing the outcomes based on goals, a goal of less than $1000 has a 76 percent chance of being successful.  There is however a 67 percent chance when the dollar amount goal is between $35000 and $45000.  The goal with the dollar amounts between $45000 and $50000 have a 100 percent chance of failure.
