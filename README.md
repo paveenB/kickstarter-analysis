@@ -17,7 +17,7 @@ to be able to visualize the trends in the data.  A few challenges was finding wh
 
 Outcomes based on the launch date reveals that there was a higher chance of success if launched in the months of May and June when following the data trend.  The month of October seemed to show the highest rate of failure based on the launch date.  The best time for a launch date would be in May, while the worse time to launch would be in October.
 
-![This is an image]
+![This is an image](https://github.com/paveenB/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ## Analysis of Outcomes Based on Goals:
 
